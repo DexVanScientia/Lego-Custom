@@ -8,3 +8,6 @@ A lightweight and fun collection of custom Lego designs. This project provides e
 
 - 📷 Preview images of each model
 - 🎨 Easy to customize and remix
+
+📄 Link Pages
+- https://dexvanscientia.github.io/Lego-Custom/
