@@ -27,5 +27,3 @@ This project is open-source and intended for personal or creative use.
 
 ## 📍 Live Preview
 - [View on GitHub Pages](https://dexvanscientia.github.io/Lego-Custom/)
-
----
