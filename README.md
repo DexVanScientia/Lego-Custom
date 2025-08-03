@@ -1,4 +1,4 @@
-**🧱 Lego Custom**
+# 🧱 Lego Custom
 
 Welcome to the **Lego Custom** project! This is a creative web-based interface designed to showcase custom LEGO character builds with a clean and responsive layout. Whether you're a LEGO enthusiast or just love pixel-perfect design, this project delivers a fun and interactive experience.
 
